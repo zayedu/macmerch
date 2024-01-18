@@ -20,3 +20,4 @@ def mcmerchCalculator():
   print(round(arguments['price']*arguments["quantity"]*(1+tax),2))
   
 mcmerchCalculator()
+##
